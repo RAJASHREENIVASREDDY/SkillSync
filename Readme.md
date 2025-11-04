@@ -25,7 +25,7 @@ It’s designed to help learners track their progress across various technical s
 
 ## 📸 Screenshots
 
-> .skillsync/preview.png
+(preview.png)
 
 ---
 
@@ -74,3 +74,4 @@ Thanks to all the open-source resources and creators online.
 ---
 
 > Made with ❤️ using Tailwind CSS.
+
